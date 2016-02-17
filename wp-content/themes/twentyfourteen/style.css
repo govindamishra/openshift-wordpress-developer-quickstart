@@ -1095,12 +1095,12 @@ a.post-thumbnail:hover {
 }
 
 .entry-title {
-	font-size: 33px;
+	font-size: 56px;
 	font-weight: 300;
 	line-height: 1.0909090909;
 	margin-bottom: 12px;
 	margin: 0 0 12px 0;
-	text-transform: uppercase;
+	text-transform:bold;
 }
 
 .entry-title a {
