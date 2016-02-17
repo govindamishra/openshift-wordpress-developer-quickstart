@@ -1095,17 +1095,18 @@ a.post-thumbnail:hover {
 }
 
 .entry-title {
-	font-size: 33px;
-	font-weight: 300;
+	font-size:72px;
+	font-weight: 24px;
 	line-height: 1.0909090909;
 	margin-bottom: 12px;
 	margin: 0 0 12px 0;
-	text-transform: uppercase;
+	text-transform: bold;
 }
 
 .entry-title a {
 	color: #2b2b2b;
 }
+
 
 .entry-title a:hover {
 	color: #41a62a;
@@ -1396,7 +1397,7 @@ a.post-thumbnail:hover {
 	border: 1px solid #000;
 	color: #fff;
 	text-decoration: none;
-}
+i}
 
 .page-links a:hover {
 	background: #41a62a;
